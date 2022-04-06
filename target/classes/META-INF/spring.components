@@ -1,0 +1,16 @@
+addCustomer.Customer=javax.persistence.Entity,javax.persistence.Table
+addCustomer.CustomerController=org.springframework.stereotype.Component
+addCustomer.CustomerDAOImpl=org.springframework.stereotype.Component
+addCustomer.CustomerServiceImpl=org.springframework.stereotype.Component
+com.luv2code.springdemo.Customer=javax.persistence.Entity,javax.persistence.Table
+com.luv2code.springdemo.CustomerController=org.springframework.stereotype.Component
+com.luv2code.springdemo.CustomerDAOImpl=org.springframework.stereotype.Component
+com.luv2code.springdemo.TestDbServlet=javax.servlet.annotation.WebServlet
+deleteCustomer.Customer=javax.persistence.Entity,javax.persistence.Table
+deleteCustomer.CustomerController=org.springframework.stereotype.Component
+deleteCustomer.CustomerDAOImpl=org.springframework.stereotype.Component
+deleteCustomer.CustomerServiceImpl=org.springframework.stereotype.Component
+updateCustomer.Customer=javax.persistence.Entity,javax.persistence.Table
+updateCustomer.CustomerController=org.springframework.stereotype.Component
+updateCustomer.CustomerDAOImpl=org.springframework.stereotype.Component
+updateCustomer.CustomerServiceImpl=org.springframework.stereotype.Component
